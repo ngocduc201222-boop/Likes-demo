@@ -6,3 +6,4 @@ pycryptodome
 protobuf
 Werkzeug
 bottle
+protobuf-decoder
